@@ -18,6 +18,7 @@ copy this class into your directory
     └── ...
     
  copy your api key into enviroment `.env` in root laravel project 
+ 
       ```jsx
       DEXSHARP_ZARRINPAL_APIKEY=********-****-****-****-************
       DEXSHARP_ZARRINPAL_CALLBACK_URL=<your callback url here>
