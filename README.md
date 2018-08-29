@@ -7,6 +7,7 @@ Class send information to zarinpal in laravel
 copy this class into your directory
 
 .
+
     ├── app                    # app in root laravel project
     │   ├── Helper             # copy into this folder
     |   |   ├──ZarinPalHelper.php      
